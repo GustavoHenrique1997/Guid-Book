@@ -1,0 +1,133 @@
+body{
+	background-color: #436a7c;
+}
+#devocional{
+	background-image: url(imagem/logo3.JPEG);
+}
+#FundoReflexao{
+	
+}
+#fundoquemsomos{
+	
+}
+h1{
+	background-color: #616161; 
+	text-align: center;
+}
+#imgP{
+	width: 4%;
+	float: left;
+	
+}
+#imgquemsomos{
+	align-content: center;
+	width: 30%;
+}
+#menu-principal{
+	list-style: none;
+	padding: 0;
+	background-color: #7a7a7a;
+	width: 15%;
+	float: left;
+	margin-top:0%;
+
+
+}
+.versiculo{
+	width: 15%;
+	float: left;
+	padding: 0;
+}
+#menu-principal li a{
+	color: #FFF;
+	padding: 20px;
+	display: inline-block;
+	text-decoration: none;
+
+}
+#menu-principal li a:hover{
+	background-color: #212121;
+}
+h2{
+width: 85%;
+float: left;
+color: ;
+
+}
+h3{
+color: #707070;
+width: 70%;
+float:left;
+}
+#pesquisar{
+	text-align: left;
+}
+#resposta{
+	list-style: none;
+	padding: 0;
+	
+	width: 50%;
+	float: left;
+	margin-top:0%;
+}
+h1{
+	text-align: center;
+}
+h5{
+	width: 15%;
+	float: left;
+}
+
+.vazio{
+	height: 20vh;
+}
+#tex{
+	height: 300px;
+	width: 400px;
+}
+#vers{
+	
+
+}
+#antigoT{
+	list-style: none;
+	padding: 0;
+	background-color: #616161;
+	width: 15%;
+	float: right;
+	margin-top:0%;
+}
+#novoT{
+	list-style: none;
+	padding: 0;
+	background-color: #616161;
+	width: 15%;
+	float: right;
+	margin-top:0%;
+}
+#modode{
+
+	list-style: none;
+	padding: 0;
+	background-color: #616161;
+	width: 15%;
+	float: right;
+	margin-top:0%;
+}
+
+#planole{
+	width: 60%;
+	float: left;
+	
+	
+}
+#reflexao{
+	width: 60%;
+	float: left;
+	margin-left: 15vw;
+	color: #272121;
+}
+#reflexao1{
+	color:#272121 ;
+}
+}
